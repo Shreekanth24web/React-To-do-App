@@ -29,14 +29,15 @@ Validation/
  
 src/Todo/todo.css
 src/Todo/todo.jsx 
-notes.txt
 
-/public/logo192.png
-/public/logo512.png
-/public/manifest.json
-/public/robots.txt
+public/logo192.png
+public/logo512.png
+public/manifest.json
+public/robots.txt
  
-/src/App.test.js
-/src/logo.svg
-/src/reportWebVitals.js
-/src/setupTests.js
+src/App.test.js
+src/logo.svg
+src/reportWebVitals.js
+src/setupTests.js
+
+notes.txt
