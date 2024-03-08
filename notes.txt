@@ -1,0 +1,32 @@
+# What is React JS?
+      React is the most popular javascript library for building user interfaces.
+
+# Uses of React
+ReactJS, a flexible JavaScript library, 
+is widely used to create dynamic user interfaces. 
+Its main application is in building single-page applications (SPAs), 
+allowing smooth content updates without page reloads.
+
+
+#JSX (JavaScript Syntax Extension) or 
+JavaScript XML. 
+JSX is a combination of HTML and JavaScript.
+We can embed JavaScript objects inside the HTML elements.
+Error handling and warnings become easier to handle when using JSX.
+
+
+#DOM
+JavaScript Frameworks updates the whole DOM at once, which makes the web application slow
+#Virtual DOM 
+react uses virtual DOM and "updates only the modified parts".
+So , this makes the DOM to run faster.
+
+#Components:
+React "divides" the "web page" into "multiple components" as it is component-based.
+So the component logic which is written in JavaScript makes it easy and run faster and can be reusable.
+
+#What are ReactJS Lifecycle Methods? 
+#Initialization: This is the stage where the component is constructed with the given Props and default state. This is done in the constructor of a Component Class.
+#Mounting: Mounting is the stage of rendering the JSX returned by the render method itself.
+#Updating: Updating is the stage when the state of a component is updated and the application is repainted.
+#Unmounting: As the name suggests Unmounting is the final step of the component lifecycle where the component is removed from the page.
